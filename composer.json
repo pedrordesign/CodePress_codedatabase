@@ -8,10 +8,10 @@
   "author": [
     {
       "name": "Pedro Ramos",
-      "email": "http://www.pedro@pedrordesign.com.br"
+      "email": "pedro@pedrordesign.com.br"
     }
   ],
-  "homepage": "pedrordesign.com.br",
+  "homepage": "http://www.pedrordesign.com.br",
   "require": {
     "illuminate/database": "~5.3"
   },
