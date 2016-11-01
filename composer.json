@@ -1,6 +1,6 @@
 {
   "name": "pedroramos/code-database",
-  "description": "Cide.education repository pattern library based in Laravel",
+  "description": "Code.education repository pattern library based in Laravel",
   "license": "MIT",
   "keywords": [
     "laravel", "repository", "criteria"
@@ -8,7 +8,7 @@
   "author": [
     {
       "name": "Pedro Ramos",
-      "email": "pedro@pedrordesign.com.br"
+      "email": "http://www.pedro@pedrordesign.com.br"
     }
   ],
   "homepage": "pedrordesign.com.br",
